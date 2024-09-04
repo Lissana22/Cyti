@@ -1,0 +1,56 @@
+ 
+
+.header {
+  padding: 10px; 
+  text-align: center; 
+  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613290703_131-p-sinii-fon-dlya-edita-173.jpg); 
+  color: white;
+}
+    .navbar {
+  overflow: hidden; 
+  background-color: #4fcbd3;
+        
+        }
+        .navbar a {
+  float: left; 
+  display: block; 
+  color: white; 
+  text-align: center; 
+  padding: 14px 20px; 
+  text-decoration: none; 
+}
+        .navbar a.right {
+  float: right; 
+}
+        
+.navbar a:hover {
+  background-color: #d3d3d3; 
+  color: black; 
+}
+
+.header h1 {
+  font-size: 40px;
+        }
+  body {
+  font-family: Arial, Helvetica, sans-serif;
+background-color: #d5f8fa;
+    
+}
+p { 
+    font-size: 20px;
+    }
+
+.footer {  
+background-color: #4fcbd3;
+   }
+.footer a {
+  float: left; 
+  display: block; 
+  color: #000000; 
+  text-align: center; 
+  padding: 20px 15px; 
+  text-decoration: none; 
+}
+.footer a.right {
+  float: right; 
+    }
