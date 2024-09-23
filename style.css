@@ -1,14 +1,12 @@
- 
-
-.header {
+ .header {
   padding: 10px; 
   text-align: center; 
-  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613290703_131-p-sinii-fon-dlya-edita-173.jpg); 
+  background-image: url(https://avatars.mds.yandex.net/i?id=feb141069a65dd0059f63e793c6a9041_l-5291937-images-thumbs&n=13); 
   color: white;
 }
     .navbar {
   overflow: hidden; 
-  background-color: #4fcbd3;
+  background-color: #0abbfc;
         
         }
         .navbar a {
@@ -31,11 +29,13 @@
 .header h1 {
   font-size: 40px;
         }
+
   body {
   font-family: Arial, Helvetica, sans-serif;
-background-color: #d5f8fa;
-    
+    height: 200px;
+  background: radial-gradient(#00bbff, #00ffe2, #00a7ff);
 }
+
 p { 
     font-size: 20px;
     }
